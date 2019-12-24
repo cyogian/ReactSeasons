@@ -1,0 +1,23 @@
+.loc-details {
+    position: relative;
+    bottom: 60px;
+    border: 2px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.loc {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    width: 100vw;
+    height: 100vh;
+}
+
+.summer {
+    background: linear-gradient(90deg,#FF512F,#F09819,#FF512F)
+}
+.winter {
+    background: linear-gradient(90deg,#fff,#c471ed,#12c2e9, #c471ed,#fff)
+}
