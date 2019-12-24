@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactSeasons/static/css/main.e6f152ac.chunk.css",
+    "main.js": "/ReactSeasons/static/js/main.df90821f.chunk.js",
+    "main.js.map": "/ReactSeasons/static/js/main.df90821f.chunk.js.map",
+    "runtime~main.js": "/ReactSeasons/static/js/runtime~main.6c55e751.js",
+    "runtime~main.js.map": "/ReactSeasons/static/js/runtime~main.6c55e751.js.map",
+    "static/js/2.6c9236af.chunk.js": "/ReactSeasons/static/js/2.6c9236af.chunk.js",
+    "static/js/2.6c9236af.chunk.js.map": "/ReactSeasons/static/js/2.6c9236af.chunk.js.map",
+    "index.html": "/ReactSeasons/index.html",
+    "precache-manifest.cdb8ce81d4a566312b754a4535d23c4d.js": "/ReactSeasons/precache-manifest.cdb8ce81d4a566312b754a4535d23c4d.js",
+    "service-worker.js": "/ReactSeasons/service-worker.js",
+    "static/css/main.e6f152ac.chunk.css.map": "/ReactSeasons/static/css/main.e6f152ac.chunk.css.map"
+  }
+}
